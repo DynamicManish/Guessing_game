@@ -32,8 +32,8 @@ while not (random_value == value):
         exit()
     elif number < random_value:
         print("Guess higher")
+    elif number > random_value:
+        print("Guess lower")   
     else:
-        print("Guess lower")     
-
-
-
+        print("Wrong inputs!")
+        exit()      
