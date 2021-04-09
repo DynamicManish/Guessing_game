@@ -8,4 +8,8 @@ It is basically a project made for learing purposes, will be benificial for thos
 In this game, the computer generates a number randomly(here, integral number b/w 1 to 10) and the user have to guess that number correctly.
 Until the user enter the correct guessed number, the program will keep on executing
 
+The 'time' module is later included to this program to make the execution of code in a bit sleepy manner, and to make code more visually appealing!
+
+![image](https://user-images.githubusercontent.com/67814686/114143076-539a4b00-9931-11eb-81cc-181421573cba.png)
+
 This simple program is having a algorithmic code and a neat struture
